@@ -30,6 +30,11 @@ A Proxy -> 20 players (a + b + c = 7 + 6 + 7 = 20 players)
 B Proxy -> 20 players (a + b + c = 7 + 6 + 7 = 20 players)
 ```
 
+### How to Use
+1. [Click here](https://github.com/KamePowerWorld/TotalPlayerCount/releases) and Download the plugin JAR file
+2. Put it to plugins directory in your Waterfall/Bungeecord proxy.
+3. That's it. The number of players in the server list has been changed to the total number of players on connected servers.
+
 ## Japanese
 
 サーバーリストに表示する人数を、プロキシにつながっているすべてのサーバーのプレイヤー数を合計した数にするWaterfall/Bungeecordプラグインです。
