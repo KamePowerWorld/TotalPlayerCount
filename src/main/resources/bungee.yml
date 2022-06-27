@@ -1,0 +1,4 @@
+name: TotalPlayerCount
+version: '${project.version}'
+main: com.kamesuta.totalplayercount.TotalPlayerCount
+author: Kamesuta
